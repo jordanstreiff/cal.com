@@ -1,1 +1,8 @@
-{}
+{
+    "vital_app_parameter": "参数",
+    "vital_app_trigger": "低于或等于时触发",
+    "vital_app_save_button": "保存配置",
+    "vital_app_hours": "小时",
+    "vital_app_save_success": "成功保存您的重要配置",
+    "vital_app_save_error": "保存您的重要配置时出错"
+}
